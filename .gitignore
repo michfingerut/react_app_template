@@ -1,0 +1,12 @@
+# Ignore build and node_modulesand build directories
+/build
+/node_modules
+
+# Exclude specific files
+!.gitignore
+!**.md
+!**.html
+!**.css
+!**.js
+!**.jsx
+!**.json
